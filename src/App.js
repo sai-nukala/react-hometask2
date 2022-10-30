@@ -21,7 +21,7 @@ class App extends Component {
 
   render() {
     return (
-      <>
+      <div>
         <div className="wrapper">
           <div className="p-20">Ice Creams Selected: {this.state.count}.</div>
           <div className="buttonWrapper">
@@ -31,7 +31,7 @@ class App extends Component {
             </button>
           </div>
         </div>
-      </>
+      </div>
     );
   }
 }
