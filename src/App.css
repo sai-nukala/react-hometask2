@@ -1,0 +1,6 @@
+.wrapper {
+    display: inline-block;
+    padding: 25px;
+    border: black dotted;
+    margin: 50px;
+  }
